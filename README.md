@@ -47,7 +47,7 @@ Currently, I don't have any blog posts to share. Stay tuned for future articles!
 
 ## Connect with Me
 
-{https://discord.gg/BnFKuWTbMy}
+https://discord.gg/BnFKuWTbMy
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/VulnScythe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="VulnScythe" /></a></p><br><br>
