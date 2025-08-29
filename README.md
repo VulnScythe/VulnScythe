@@ -17,7 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vulnscythe&show_icons=true&locale=en&layout=compact" alt="vulnscythe" /></p>
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.svg)
+![Snake animation](https://github.com/VulnScythe/VulnScythe/blob/output/snake.svg)
 
 
 
