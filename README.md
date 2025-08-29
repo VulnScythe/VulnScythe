@@ -4,7 +4,7 @@ Cybersecurity, Scripting & Red Hat
 
 ## About Me
 
-Exploring the intersection of cybersecurity and automation — creating solutions, learning, and sharing along the way.
+Exploring the intersection of cybersecurity and automation — creating exploits, learning, and sharing along the way.
 
 ## Languages and Tools
 
