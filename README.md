@@ -16,3 +16,5 @@
 <p><a href="https://www.buymeacoffee.com/VulnScythe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="VulnScythe" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vulnscythe&show_icons=true&locale=en&layout=compact" alt="vulnscythe" /></p>
+
+<img src="https://raw.githubusercontent.com/VulnScythe/VulnScythe/output/snake.svg" alt="Snake animation" />
