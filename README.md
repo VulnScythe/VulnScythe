@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Exploring the intersection of cybersecurity and automation — creating solutions, learning, and sharing along the way.
+Cybersecurity, Scripting & Red Hat
 
 ## About Me
 
