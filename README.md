@@ -8,7 +8,7 @@ Exploring the intersection of cybersecurity and automation — creating solution
 
 ## Skills & Technologies
 
-c,py,css,html,kali,mysql
+[c,py,css,html,kali,mysql](https://skillicons.dev/icons?i=c,py,css,html,kali,mysql&perline=8)
 
 ## Top Projects
 
