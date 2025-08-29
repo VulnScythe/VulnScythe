@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm VulnScythe</h1>
-<h3 align="center">Cybersecurity, Scripting & Red Hat</h3>
+<h3 align="center">Cybersecurity, Scripting & Red Hat <img width="556" height="556" alt="image" src="https://github.com/user-attachments/assets/a80a7c9a-aca7-4635-bdbe-788d9e6f4ee6" />
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vulnscythe" alt="vulnscythe" /></a> </p>
 
